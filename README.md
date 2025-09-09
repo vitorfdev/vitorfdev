@@ -9,8 +9,8 @@ I'm a Software Engineering student currently in my fifth semester. I'm enthusias
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, C++, C#, Java, JavaScript, TypeScript, Ruby, Bash, SQL
-- **Frameworks**: React & React Native, VueJS, Node.js, Express, Ruby on Rails
+- **Languages**: C#, Java, TypeScript, Ruby, SQL, Dart
+- **Frameworks**: React & React Native, VueJS, Node.js, Express, Ruby on Rails, Flutter
 - **Databases**: Postgresql, MySQL, MongoDB
 - **Tools**: Git, Docker, VS Code, IntelliJ IDEA
 - **Operating Systems**: Windows, Linux
@@ -19,7 +19,6 @@ I'm a Software Engineering student currently in my fifth semester. I'm enthusias
 
 - Advanced Algorithms and Data Structures
 - DevOps practices and tools
-- Web Development with Ruby on Rails
 
 ## 🌱 Interests
 
